@@ -16,3 +16,5 @@
 > <h1 align='center'> Email Spam Classifier</h1>
  
 > **Classify Emails as Spam or Not Spam using machine learning models in this notebook i applied multiple models to trainig and compare them after that i found that best model is Random Forest with accuarcy 93%**
+
+[![Hits](https://hits.sh/github.com/YossefEFM/CODING-SAMURAI/tree/7ff7268c53fd5d33745132393505fb12ca46e382/Email%20Spam%20Classifier.svg?color=070000&labelColor=0a00ff)](https://hits.sh/github.com/YossefEFM/CODING-SAMURAI/tree/7ff7268c53fd5d33745132393505fb12ca46e382/Email%20Spam%20Classifier/)
