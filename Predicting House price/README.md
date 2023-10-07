@@ -18,5 +18,5 @@
 > **Predict house prices based on various features such as area, number of bedrooms, neighborhood, 
 and price prediction based on building machine learning model after training on multiple models Gradiant Boosting is the best with accuracy 95% in training and 80.4% in testing.**
 
-
+[![Hits](https://hits.sh/github.com/YossefEFM/CODING-SAMURAI/tree/b1a86cd42e40acd72f589e3fdd0862dda5eba13d/Predicting%20House%20price.svg?color=070000&labelColor=0a00ff)](https://hits.sh/github.com/YossefEFM/CODING-SAMURAI/tree/b1a86cd42e40acd72f589e3fdd0862dda5eba13d/Predicting%20House%20price/)
 
